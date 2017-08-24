@@ -1,0 +1,16 @@
+{
+  "name": "fun-programming-exercise",
+  "version": "1.0.0",
+  "description": "Fun Little Real-Time Programming exercise for Axway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Hampton",
+  "license": "ISC",
+  "dependencies": {
+    "clui": "^0.3.6",
+    "commander": "^2.11.0",
+    "mathjs": "^3.16.2"
+  }
+}
